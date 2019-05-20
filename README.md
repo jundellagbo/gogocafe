@@ -9,7 +9,7 @@
 -	URL: https://ggc.indigroup.biz/
 
 ### Technologies
-- PHP WordPress plugin(https://wordpress.org/plugins/wp-food-menu-api/)
+- PHP WordPress plugin (https://wordpress.org/plugins/wp-food-menu-api/)
 - React Native
 - MySQL
 
