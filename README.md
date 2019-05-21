@@ -4,8 +4,6 @@
 - Geolocation
 - Add to Favorites
 - Display Products from Wordpress site
--	Features: Geolocation, Add to Favorites, Display Products from Website.
--	Using: PHP WordPress [plugin development], React Native, MySQL
 -	URL: https://ggc.indigroup.biz/
 
 ### Technologies
